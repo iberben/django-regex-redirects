@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
-from distutils.core import setup
-
-from setuptools import find_packages
+from setuptools import find_packages, setup
 
 setup(
     name='django-regex-redirects',
-    version='0.3.1',
+    version='0.3.2a',
     author=u'Alex de Landgraaf',
     author_email='alex@maykinmedia.nl',
     packages=find_packages(),
