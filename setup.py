@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='django-regex-redirects',
-    version='0.3.2a',
+    version='0.3.3',
     author=u'Alex de Landgraaf',
     author_email='alex@maykinmedia.nl',
     packages=find_packages(),
